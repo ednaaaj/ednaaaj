@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Jhondi 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Hi,%20I'm%20Jhondi&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn" alt="header">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=39D353&center=true&vCenter=true&width=520&lines=Software+engineer;I+build+tools+for+AI+coding+agents;Mobile+%2B+web+%2B+DX+nerd" alt="typing intro">
 </p>
@@ -6,17 +8,6 @@
 <p align="center">
   <a href="https://ednaaaj.github.io/ednaaaj/"><img src="https://img.shields.io/badge/▶_PLAY-SNAKE-39d353?style=for-the-badge&labelColor=0d1117" alt="play snake"></a>
 </p>
-
-## 👤 About
-![gif](https://user-images.githubusercontent.com/22855192/152580836-5e762997-0dba-4136-afa1-a549f4762b60.gif)
-
-```js
-const ME = {
-  name: "Jhondi Pamonag",
-  age: 27,
-  location: "Caloocan City, Philippines"
-}
-```
 
 ## 🧰 Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -48,3 +39,7 @@ const ME = {
   </picture>
 </p>
 <p align="center"><sub>README can't run JS, so the snake above eats my commits. <a href="https://ednaaaj.github.io/ednaaaj/">Play the real one →</a></sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" alt="footer">
+</p>
